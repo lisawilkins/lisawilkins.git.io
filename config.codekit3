@@ -41,6 +41,14 @@
 		"oAP": "/build/cgi-bin/formmail.php",
 		"oF": 0
 		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/CNAME",
+		"oF": 0
+		},
 	"/css/animation.css": {
 		"aP": 1,
 		"bl": 0,
