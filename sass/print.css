@@ -1,0 +1,106 @@
+/* Welcome to Compass. Use this file to define print styles.
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" /> */
+@font-face {
+  font-family: 'fontello-icons';
+  src: url("../fonts/fontello-icons.eot?46943407");
+  src: url("../fonts/fontello-icons.eot?46943407#iefix") format("embedded-opentype"), url("../fonts/fontello-icons.woff?46943407") format("woff"), url("../fonts/fontello-icons.ttf?46943407") format("truetype"), url("../fonts/fontello-icons.svg?46943407#fontello-icons") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@media print {
+  @page {
+    margin: 3cm 2cm; }
+  p {
+    orphans: 3; }
+
+  article {
+    widows: 2; }
+
+  html,
+  button,
+  input,
+  select,
+  textarea {
+    color: #222;
+    font-family: Lato, Helvetica, Arial, sans-serif; }
+
+  body {
+    margin: 30px auto;
+    max-width: 800px; }
+
+  .column,
+  aside,
+  aside .intro,
+  section,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  header,
+  .header-group {
+    margin: 0 !important;
+    padding: 0 !important; }
+
+  section p {
+    margin: 0;
+    padding: 0 0 15pt; }
+    .intro section p, section section p, footer section p {
+      font-size: 10pt; }
+
+  menu, ol, ul {
+    padding: 0px;
+    margin: 0; }
+
+  li {
+    list-style: none;
+    margin-bottom: 20px; }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: #999; }
+
+  img {
+    padding-top: 1rem; }
+
+  header {
+    border-bottom: 3pt solid darkmagenta; }
+
+  h1 {
+    color: #999;
+    font-size: 24pt;
+    font-weight: 300; }
+    h1 .subhead {
+      font-size: 0.5rem;
+      font-weight: 300;
+      display: block;
+      text-transform: uppercase;
+      color: #999; }
+
+  h2 {
+    font-size: 16pt; }
+
+  h3 {
+    font-size: 14pt; }
+
+  h5 {
+    font-weight: 600;
+    text-transform: uppercase; }
+
+  a:link,
+  a:visited {
+    color: #222;
+    text-decoration: none; }
+
+  .pics, .emotional, .sidework, .connectItem:last-child, .family, sup {
+    display: none; }
+
+  .connectList {
+    display: none;
+    position: static; }
+
+  section {
+    border: none; } }
+
+/*# sourceMappingURL=print.css.map */

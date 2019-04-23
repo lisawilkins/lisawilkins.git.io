@@ -1,0 +1,175 @@
+/* Welcome to Compass. Use this file to define print styles.
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" /> */
+
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'fontello-icons';
+  src: url('../fonts/fontello-icons.eot?46943407');
+  src: url('../fonts/fontello-icons.eot?46943407#iefix') format('embedded-opentype'),
+  url('../fonts/fontello-icons.woff?46943407') format('woff'),
+  url('../fonts/fontello-icons.ttf?46943407') format('truetype'),
+  url('../fonts/fontello-icons.svg?46943407#fontello-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@media print {
+  @page {
+    margin: 3cm 2cm;
+  }
+
+  p {
+    orphans: 3;
+  }
+
+  article {
+    widows: 2;
+  }
+
+  $font-stack: Lato, Helvetica, Arial, sans-serif;
+  $link-color: #29a6d3;
+  $link-hover-color: #d329a7;
+  $xsmallpx: 0.5rem;
+  $smallpx: 0.75rem;
+  $normpx: 1rem;
+  $medpx: 1.15rem;
+  $largepx: 1.5rem;
+  $xlargepx: 3.5rem;
+  $dark-grey: #222;
+  $light-grey: #999;
+  $h-color: #999;
+
+  html,
+  button,
+  input,
+  select,
+  textarea {
+    color: $dark-grey;
+    font-family: $font-stack;
+  }
+
+  body {
+    margin: 30px auto;
+    max-width: 800px;
+  }
+
+  .column,
+  aside,
+  aside .intro,
+  section,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  header,
+  .header-group {
+    margin:0;
+    padding:0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: $h-color;
+  }
+
+
+  .header-group h1 {
+    color: #999;
+    font-size: 1.75rem;
+    font-weight: 300;
+    padding: 0;
+
+
+    .subhead {
+      font-size: 0.8rem;
+      font-weight: 300;
+      display: block;
+      text-transform: uppercase;
+      color: #999;
+    }
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    border-bottom: 1px solid darkmagenta;
+
+  }
+
+  h5 {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+
+  p {
+    section &,
+    .intro &,
+    footer & {
+      font-size: 0.75rem;
+    }
+  }
+
+  section {
+    p {
+      margin: 0;
+      padding: 0;
+    }
+
+    h2 {
+      margin: 0.25rem 0;
+    }
+
+    h4 {
+      font-size: 18px;
+      padding-bottom: 0rem;
+    }
+    .samples,figure {
+      display: none;
+    }
+
+    .job-title {
+      margin-bottom: 0.5rem;
+    }
+
+    .column {
+      .dividers{
+        font-size: $smallpx;
+        margin:0 0 1rem;
+      }
+      ul li{
+        font-size: 0.75rem;
+      }
+    }
+    .label-container .section-label {
+      margin: 0;
+    }
+}
+  menu, ol, ul {
+    padding: 0px;
+    margin: 0;
+  }
+
+  img {
+    padding-top: 1rem;
+  }
+
+  header {
+    border-bottom: 3pt solid darkmagenta;
+  }
+
+  a:link,
+  a:visited {
+    color: #222;
+    text-decoration: none;
+  }
+
+  .pics, .emotional, .sidework, .family, sup {
+    display: none;
+  }
+
+footer .going-up {
+  display: none;
+}
+}
