@@ -33,6 +33,12 @@
 		"oAP": "/build/audio/elevator-music.mp3",
 		"oF": 0
 		},
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/cgi-bin/formmail.php": {
 		"cB": 0,
 		"ft": 8192,
