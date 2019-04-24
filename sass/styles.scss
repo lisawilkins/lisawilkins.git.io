@@ -67,6 +67,7 @@ menu, ol, ul {
 li {
   margin-bottom: 1rem;
   font-size: $medpx;
+
   .comment {
     display: block;
     font-size: $normpx;
@@ -75,7 +76,6 @@ li {
     padding: 0;
   }
 }
-
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-stack;
