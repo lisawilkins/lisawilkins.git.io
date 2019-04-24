@@ -1,4 +1,4 @@
-//styles.scss 
+//styles.scss
 @charset "UTF-8";
 
 @font-face {
@@ -70,8 +70,8 @@ li {
   .comment {
     display: block;
     font-size: $normpx;
-    line-height: 1.2rem;    
-    margin: 0;
+    line-height: 1.2rem;
+    margin: 5px 0 0 0;
     padding: 0;
   }
 }
@@ -96,7 +96,7 @@ header {
   background: $dark-grey url('../images/LmwC.png') no-repeat center right;
   background-size: 25%;
   padding: 0px;
-  border-width: 2px 0 5px; 
+  border-width: 2px 0 5px;
   border-style: solid;
   border-color: $link-color;
 }

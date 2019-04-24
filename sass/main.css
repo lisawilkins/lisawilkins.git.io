@@ -35,10 +35,6 @@ li {
   margin-bottom: 1rem;
   font-size: 0.75rem; }
 
-.comment {
-  color: blue;
-  text-decoration: underline; }
-
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
   color: #222;
