@@ -70,7 +70,7 @@ li {
   .comment {
     display: block;
     font-size: $normpx;
-    line-height: 1.2rem;
+    line-height: 1.25rem;
     margin: 5px 0 0 0;
     padding: 0;
   }
@@ -225,6 +225,7 @@ a.resume-link {
   margin: 0px auto;
   overflow: hidden;
 
+
   .dividers {
     width: auto;
     font-size: 1.75rem;
@@ -236,6 +237,7 @@ a.resume-link {
   }
 
   ul {
+    list-style: none;
     width: 85%;
     margin: 1.5rem auto;
   }
@@ -247,17 +249,26 @@ a.resume-link {
 
 section {
 
+  li::before {
+    content: "•";
+    color: darkmagenta;
+    display: inline-block;
+    width: 0.75em;
+    margin-left: -0.75em
+  }
+
   .goal {
     text-transform: uppercase;
     font-family: $font-stack;
     font-size: $normpx;
     font-weight: 600;
     display: block;
-
   }
+
   .sub-item {
     margin-left: 30px;
   }
+
   .expanded {
     height: auto;
     overflow: hidden;
@@ -279,7 +290,7 @@ section {
     }
   }
 
-  h2{
+  h2 {
     margin: 1.25em 0 0.25em;
     font-size: $normpx;
     text-transform: uppercase;
@@ -328,7 +339,7 @@ section {
 aside {
 
   .intro {
-    font-size: $medpx;
+    font-size: $smallpx;
     margin: 0px auto;
     padding: 15px 0px;
 
@@ -374,7 +385,11 @@ footer {
 }
 
 @media all and (min-width: 601px) {
-
+  aside {
+    .intro {
+      font-size: $medpx;
+    }
+  }
   .column {
     max-width: 650px;
     padding: 0;
