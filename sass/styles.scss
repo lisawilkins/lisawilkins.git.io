@@ -43,7 +43,7 @@ textarea {
 
 body {
   font-family: $font-body;
-  line-height: 1.4;
+  line-height: 1.25;
 }
 
 a {
@@ -65,7 +65,7 @@ menu, ol, ul {
 }
 
 li {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   font-size: $medpx;
 
   .comment {
@@ -73,7 +73,7 @@ li {
     font-size: $normpx;
     line-height: 1.25rem;
     margin: 5px 0 0 0;
-    padding: 0;
+    padding: 0.25rem 0 0;
   }
 }
 
@@ -422,9 +422,9 @@ footer {
 
   section {
 
-    h4.project-name {
-      margin: 0;
-    }
+    // h4.project-name {
+    //   margin: 0;
+    // }
 
     figure {
       width: 48%;
