@@ -1382,9 +1382,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/js/elevator-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -1538,7 +1538,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/build/sass/main-min.css",
-		"oF": 0,
+		"oF": 1,
 		"oS": 3
 		},
 	"/sass/main.css.map": {
