@@ -225,7 +225,7 @@
 		"oAP": "/build/images/archive/2011-05-27 12.25.18.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/anti-age-01.jpg": {
@@ -236,7 +236,7 @@
 		"oAP": "/build/images/archive/anti-age-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/anti-age-02.jpg": {
@@ -247,7 +247,7 @@
 		"oAP": "/build/images/archive/anti-age-02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/anti-age-03.jpg": {
@@ -258,7 +258,7 @@
 		"oAP": "/build/images/archive/anti-age-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/bottling.jpg": {
@@ -269,7 +269,7 @@
 		"oAP": "/build/images/archive/bottling.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/bottling_01.jpg": {
@@ -280,7 +280,7 @@
 		"oAP": "/build/images/archive/bottling_01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/caine.jpg": {
@@ -291,7 +291,7 @@
 		"oAP": "/build/images/archive/caine.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/cali_farmland.jpg": {
@@ -302,7 +302,7 @@
 		"oAP": "/build/images/archive/cali_farmland.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/cottonboll.jpg": {
@@ -313,7 +313,7 @@
 		"oAP": "/build/images/archive/cottonboll.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/diana.jpg": {
@@ -324,7 +324,7 @@
 		"oAP": "/build/images/archive/diana.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/dland.jpg": {
@@ -335,7 +335,7 @@
 		"oAP": "/build/images/archive/dland.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/eastbay.jpg": {
@@ -346,7 +346,7 @@
 		"oAP": "/build/images/archive/eastbay.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/elf.jpeg": {
@@ -357,7 +357,7 @@
 		"oAP": "/build/images/archive/elf.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/grapefruit.jpg": {
@@ -368,7 +368,7 @@
 		"oAP": "/build/images/archive/grapefruit.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/happydude.html": {
@@ -387,7 +387,7 @@
 		"oAP": "/build/images/archive/killme.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/ElectionComparison.psd": {
@@ -404,7 +404,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/MsNBC/elections2004.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/MsNBC/elections2012.jpg": {
 		"ft": 16384,
@@ -414,7 +414,7 @@
 		"oAP": "/build/images/archive/MsNBC/elections2012.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/FeedsBrowser_ListView.gif": {
@@ -423,7 +423,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/MsNBC/FeedsBrowser_ListView.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/MsNBC/FeedsBrowserListView_sm.png": {
 		"ft": 32768,
@@ -432,7 +432,7 @@
 		"oAP": "/build/images/archive/MsNBC/FeedsBrowserListView_sm.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -450,7 +450,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/MsNBC/FeedsBrowserSearchAlert.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/MsNBC/ImageSearch.jpg": {
 		"ft": 16384,
@@ -460,7 +460,7 @@
 		"oAP": "/build/images/archive/MsNBC/ImageSearch.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/InfoGraphic-CWDNorthAmerica.jpg": {
@@ -471,7 +471,7 @@
 		"oAP": "/build/images/archive/MsNBC/InfoGraphic-CWDNorthAmerica.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/PoliticsHubLayout.jpg": {
@@ -482,7 +482,7 @@
 		"oAP": "/build/images/archive/MsNBC/PoliticsHubLayout.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/sentiment_charts_02.png": {
@@ -492,7 +492,7 @@
 		"oAP": "/build/images/archive/MsNBC/sentiment_charts_02.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -504,7 +504,7 @@
 		"oAP": "/build/images/archive/MsNBC/Take3_Boomers.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/Tech-New.jpg": {
@@ -515,7 +515,7 @@
 		"oAP": "/build/images/archive/MsNBC/Tech-New.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/Tech-Prev.jpg": {
@@ -526,7 +526,7 @@
 		"oAP": "/build/images/archive/MsNBC/Tech-Prev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/MsNBC/WDTS_01-2006.jpg": {
@@ -537,7 +537,7 @@
 		"oAP": "/build/images/archive/MsNBC/WDTS_01-2006.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/newsbird.ai": {
@@ -556,7 +556,7 @@
 		"oAP": "/build/images/archive/nose.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/peacock.png": {
@@ -566,7 +566,7 @@
 		"oAP": "/build/images/archive/peacock.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -586,7 +586,7 @@
 		"oAP": "/build/images/archive/random/beggar.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/desert.jpg": {
@@ -597,7 +597,7 @@
 		"oAP": "/build/images/archive/random/desert.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/firstride.jpg": {
@@ -608,7 +608,7 @@
 		"oAP": "/build/images/archive/random/firstride.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/grapefruit.jpg": {
@@ -619,7 +619,7 @@
 		"oAP": "/build/images/archive/random/grapefruit.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/heybrooktower.jpg": {
@@ -630,7 +630,7 @@
 		"oAP": "/build/images/archive/random/heybrooktower.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/karate2010medals.jpg": {
@@ -641,7 +641,7 @@
 		"oAP": "/build/images/archive/random/karate2010medals.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/lw.jpg": {
@@ -652,7 +652,7 @@
 		"oAP": "/build/images/archive/random/lw.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/mamehair.gif": {
@@ -661,7 +661,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/random/mamehair.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/random/mamestairs.gif": {
 		"ft": 4194304,
@@ -669,7 +669,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/random/mamestairs.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/random/pipes.jpg": {
 		"ft": 16384,
@@ -679,7 +679,7 @@
 		"oAP": "/build/images/archive/random/pipes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/rocketgarden.jpg": {
@@ -690,7 +690,7 @@
 		"oAP": "/build/images/archive/random/rocketgarden.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/snowman.jpg": {
@@ -701,7 +701,7 @@
 		"oAP": "/build/images/archive/random/snowman.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/random/suit.jpg": {
@@ -712,7 +712,7 @@
 		"oAP": "/build/images/archive/random/suit.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/sprite.png": {
@@ -722,7 +722,7 @@
 		"oAP": "/build/images/archive/sprite.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -742,7 +742,7 @@
 		"oAP": "/build/images/archive/suit.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/thedude.jpg": {
@@ -753,7 +753,7 @@
 		"oAP": "/build/images/archive/thedude.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/archive/thedudehappy.gif": {
@@ -762,7 +762,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/thedudehappy.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/archive/uw.html": {
 		"cB": 0,
@@ -778,7 +778,7 @@
 		"oA": 0,
 		"oAP": "/build/images/archive/uwseal.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/charts.psd": {
 		"cB": 0,
@@ -818,7 +818,7 @@
 		"oAP": "/build/images/DesignSystem.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/election_hub-tool-lrg.jpg": {
@@ -829,7 +829,7 @@
 		"oAP": "/build/images/election_hub-tool-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/election_hub-tool-sm.jpg": {
@@ -840,7 +840,7 @@
 		"oAP": "/build/images/election_hub-tool-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/food-front-sample.jpg": {
@@ -851,7 +851,7 @@
 		"oAP": "/build/images/food-front-sample.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/food-mobile-lrg.png": {
@@ -861,7 +861,7 @@
 		"oAP": "/build/images/food-mobile-lrg.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -872,7 +872,7 @@
 		"oAP": "/build/images/food-mobile-sm.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -883,7 +883,7 @@
 		"oAP": "/build/images/food-mugs.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -894,7 +894,7 @@
 		"oAP": "/build/images/food-ots.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -905,7 +905,7 @@
 		"oAP": "/build/images/LmwC.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -917,7 +917,7 @@
 		"oAP": "/build/images/mix-finished-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-finished-mocks-lrg.jpg": {
@@ -928,7 +928,7 @@
 		"oAP": "/build/images/mix-finished-mocks-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-finished-mocks-sm.jpg": {
@@ -939,7 +939,7 @@
 		"oAP": "/build/images/mix-finished-mocks-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-finished-mocks.sketch": {
@@ -958,7 +958,7 @@
 		"oAP": "/build/images/mix-finished-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-flow-chart-lrg.jpg": {
@@ -969,7 +969,7 @@
 		"oAP": "/build/images/mix-flow-chart-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-flow-chart.jpg": {
@@ -980,7 +980,7 @@
 		"oAP": "/build/images/mix-flow-chart.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-wireframes-lrg.jpg": {
@@ -991,7 +991,7 @@
 		"oAP": "/build/images/mix-wireframes-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-wireframes-sm.jpg": {
@@ -1002,7 +1002,7 @@
 		"oAP": "/build/images/mix-wireframes-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-wireframes.jpg": {
@@ -1013,7 +1013,7 @@
 		"oAP": "/build/images/mix-wireframes.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/mix-wireframes.sketch": {
@@ -1040,7 +1040,7 @@
 		"oAP": "/build/images/nose.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/politics-hub-layout-sm.jpg": {
@@ -1051,7 +1051,7 @@
 		"oAP": "/build/images/politics-hub-layout-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/politics-hub-layout.jpg": {
@@ -1062,7 +1062,7 @@
 		"oAP": "/build/images/politics-hub-layout.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/politics-hub_dayAfterElection-sm.jpg": {
@@ -1073,7 +1073,7 @@
 		"oAP": "/build/images/politics-hub_dayAfterElection-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/politics-hub_dayAfterElection.jpg": {
@@ -1084,7 +1084,7 @@
 		"oAP": "/build/images/politics-hub_dayAfterElection.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/roku-after-01.png": {
@@ -1094,7 +1094,7 @@
 		"oAP": "/build/images/roku-after-01.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1106,7 +1106,7 @@
 		"oAP": "/build/images/roku-before.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/sad.gif": {
@@ -1115,7 +1115,7 @@
 		"oA": 0,
 		"oAP": "/build/images/sad.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/sentiment-charts-sm.jpg": {
 		"ft": 16384,
@@ -1125,7 +1125,7 @@
 		"oAP": "/build/images/sentiment-charts-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/sentiment-charts.jpg": {
@@ -1136,7 +1136,7 @@
 		"oAP": "/build/images/sentiment-charts.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/thedudehappy.gif": {
@@ -1145,7 +1145,7 @@
 		"oA": 0,
 		"oAP": "/build/images/thedudehappy.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/Today-food-mobile.sketch": {
 		"cB": 0,
@@ -1163,7 +1163,7 @@
 		"oAP": "/build/images/today-food-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-badges-onsite-sm.jpg": {
@@ -1174,7 +1174,7 @@
 		"oAP": "/build/images/TPT-badges-onsite-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-badges-onsite.gif": {
@@ -1183,7 +1183,7 @@
 		"oA": 0,
 		"oAP": "/build/images/TPT-badges-onsite.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"/images/TPT-badges-onsite.jpg": {
 		"ft": 16384,
@@ -1193,7 +1193,7 @@
 		"oAP": "/build/images/TPT-badges-onsite.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-badges.png": {
@@ -1203,7 +1203,7 @@
 		"oAP": "/build/images/TPT-badges.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1215,7 +1215,7 @@
 		"oAP": "/build/images/TPT-front-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-front-sm.jpg": {
@@ -1226,7 +1226,7 @@
 		"oAP": "/build/images/TPT-front-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-front.jpg": {
@@ -1237,7 +1237,7 @@
 		"oAP": "/build/images/TPT-front.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/TPT-front.png": {
@@ -1247,7 +1247,7 @@
 		"oAP": "/build/images/TPT-front.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1258,7 +1258,7 @@
 		"oAP": "/build/images/TPT-post.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1270,7 +1270,7 @@
 		"oAP": "/build/images/TPT-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/tpt-sm.png": {
@@ -1280,7 +1280,7 @@
 		"oAP": "/build/images/tpt-sm.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1292,7 +1292,7 @@
 		"oAP": "/build/images/video-experience-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/video-experience-sm.jpg": {
@@ -1303,7 +1303,7 @@
 		"oAP": "/build/images/video-experience-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/video-live-lrg.jpg": {
@@ -1314,7 +1314,7 @@
 		"oAP": "/build/images/video-live-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/video-live-sm.jpg": {
@@ -1325,7 +1325,7 @@
 		"oAP": "/build/images/video-live-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/video-mock-lrg.jpg": {
@@ -1336,7 +1336,7 @@
 		"oAP": "/build/images/video-mock-lrg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/video-mock-lrg.sketch": {
@@ -1355,7 +1355,7 @@
 		"oAP": "/build/images/video-mock-sm.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/wire-feeds-tool.png": {
@@ -1365,7 +1365,7 @@
 		"oAP": "/build/images/wire-feeds-tool.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1404,9 +1404,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/js/min/elevator-min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -1415,9 +1415,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/js/min/elevator.min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -1426,9 +1426,9 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/build/js/min/main-min-min.js",
-		"oF": 0,
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -1692,7 +1692,8 @@
 	"displayValue": "portfolio",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ron",
-	"iconImageWasSetByUser": 0
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 601079285.42038405
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
