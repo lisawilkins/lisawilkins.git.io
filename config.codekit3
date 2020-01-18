@@ -1385,20 +1385,20 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/index-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index-test.html",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/index.html",
-		"oF": 0
-		},
-	"/index01.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/build/index01.html",
 		"oF": 0
 		},
 	"/js/elevator.js": {
@@ -1717,7 +1717,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 601083449.68064797
+	"lastBuiltDate": 601083728.22428703
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
