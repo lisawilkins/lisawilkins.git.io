@@ -1385,6 +1385,22 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/index-newLayout.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index-newLayout.html",
+		"oF": 0
+		},
+	"/index-OG.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/index-OG.html",
+		"oF": 0
+		},
 	"/index-test.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1717,7 +1733,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 601083728.22428703
+	"lastBuiltDate": 601279922.43071795
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
