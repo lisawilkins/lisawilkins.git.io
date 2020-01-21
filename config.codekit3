@@ -113,6 +113,24 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/reset.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/css/reset-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/reset.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/css/reset.css.map",
+		"oF": 0
+		},
 	"/css/screen.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1577,8 +1595,8 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/build/sass/main-min.css",
-		"oF": 1,
+		"oAP": "/build/css/main.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"/sass/main.css.map": {
@@ -1587,7 +1605,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/sass/main.css.map",
-		"oF": 0
+		"oF": 1
 		},
 	"/sass/main.scss": {
 		"aP": 0,
@@ -1628,7 +1646,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/build/css/print.css",
+		"oAP": "/css/print.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
@@ -1641,7 +1659,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "/build/css/reset.css",
+		"oAP": "/css/reset.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
